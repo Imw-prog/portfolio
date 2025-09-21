@@ -1,0 +1,24 @@
+HTTrack3.49-2 launched on Tue, 13 Jun 2023 14:13:52 at https://wpriverthemes.com/drake/3d-abstract-ball/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://wpriverthemes.com/drake/3d-abstract-ball/ -O "/home/machine/Documents/Port/Ball" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:15:09	Error: 	"Not Found" (404) at link maxst.icons8.com/ (from https://wpriverthemes.com/drake/3d-abstract-ball/)
+14:15:10	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://wpriverthemes.com/drake/3d-abstract-ball/)
+14:15:13	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://wpriverthemes.com/drake/3d-abstract-ball/)
+14:15:13	Warning: 	Moved Permanently for https://wpriverthemes.com/drake/?p=201
+14:15:13	Warning: 	File has moved from https://wpriverthemes.com/drake/?p=201 to https://wpriverthemes.com/drake/3d-abstract-ball/
+14:15:13	Warning: 	HTML file (1666 bytes) retransferred due to lack of cache: https://wpriverthemes.com/drake/feed/
+14:15:13	Warning: 	HTML file (2134 bytes) retransferred due to lack of cache: https://wpriverthemes.com/drake/comments/feed/
+14:15:13	Warning: 	HTML file (173964 bytes) retransferred due to lack of cache: https://wpriverthemes.com/drake/wp-json/
+14:15:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://wpriverthemes.com/drake/wp-json/wp/v2/pages/201
+14:15:37	Error: 	"Not Found" (404) at link https://wpriverthemes.com/drake/wp-content/themes/drake/assets/css/owl.video.play.png (from https://wpriverthemes.com/drake/wp-content/themes/drake/assets/css/owl.carousel.min.css?ver=6.2.2)
+14:15:37	Error: 	"Not Found" (404) at link https://wpriverthemes.com/drake/3d-abstract-ball/t (from https://wpriverthemes.com/drake/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.7.6)
+14:15:37	Error: 	"Not Found" (404) at link https://wpriverthemes.com/drake/3d-abstract-ball/-negative.svg (from https://wpriverthemes.com/drake/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.12.1)
+14:15:38	Error: 	"Not Found" (404) at link https://wpriverthemes.com/drake/3d-abstract-ball/OPR/ (from https://wpriverthemes.com/drake/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.12.1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 46 seconds : 94 links scanned, 85 files written (5252512 bytes overall) [2316408 bytes received at 21852 bytes/sec], 4248033 bytes transferred using HTTP compression in 59 files, ratio 26%, 3.5 requests per connection
+(7 errors, 6 warnings, 0 messages)
